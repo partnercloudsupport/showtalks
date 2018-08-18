@@ -1,0 +1,2386 @@
+{
+  "id": 150,
+  "url": "http://www.tvmaze.com/shows/150/shameless",
+  "name": "Shameless",
+  "type": "Scripted",
+  "language": "English",
+  "genres": ["Drama", "Comedy"],
+  "status": "Running",
+  "runtime": 60,
+  "premiered": "2011-01-09",
+  "officialSite": "http://www.sho.com/sho/shameless/home",
+  "schedule": { "time": "21:00", "days": ["Sunday"] },
+  "rating": { "average": 8.8 },
+  "weight": 97,
+  "network": {
+    "id": 9,
+    "name": "Showtime",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    }
+  },
+  "webChannel": null,
+  "externals": { "tvrage": 25117, "thetvdb": 161511, "imdb": "tt1586680" },
+  "image": {
+    "medium":
+      "http://static.tvmaze.com/uploads/images/medium_portrait/133/332796.jpg",
+    "original":
+      "http://static.tvmaze.com/uploads/images/original_untouched/133/332796.jpg"
+  },
+  "summary":
+    "<p><b>Shameless</b> is a fiercely engaging and fearlessly twisted series. Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.</p>",
+  "updated": 1526830325,
+  "_links": {
+    "self": { "href": "http://api.tvmaze.com/shows/150" },
+    "previousepisode": { "href": "http://api.tvmaze.com/episodes/1365450" }
+  },
+  "_embedded": {
+    "seasons": [
+      {
+        "id": 683,
+        "url": "http://www.tvmaze.com/seasons/683/shameless-season-1",
+        "number": 1,
+        "name": "",
+        "episodeOrder": 12,
+        "premiereDate": "2011-01-09",
+        "endDate": "2011-03-27",
+        "network": {
+          "id": 9,
+          "name": "Showtime",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "webChannel": null,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_portrait/42/106803.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/42/106803.jpg"
+        },
+        "summary":
+          "<p>Frank goes missing and turns up in Toronto, tries without success to embrace sobriety, and bends the law to protect his disability checks; Fiona falls for Steve, a handsome player with a nice car, a fat wallet, and a big secret; Ian embraces his sexuality, much to the chagrin of his brainy brother Lip; Debbie goes too far at a child's birthday party; Monica shows up with an announcement about baby Liam.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/seasons/683" } }
+      },
+      {
+        "id": 684,
+        "url": "http://www.tvmaze.com/seasons/684/shameless-season-2",
+        "number": 2,
+        "name": "",
+        "episodeOrder": 12,
+        "premiereDate": "2012-01-08",
+        "endDate": "2012-04-01",
+        "network": {
+          "id": 9,
+          "name": "Showtime",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "webChannel": null,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_portrait/42/106804.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/42/106804.jpg"
+        },
+        "summary":
+          "<p>Frank and Monica rekindle their self-destructive relationship after Frank's mother returns from prison to wreak havoc; Fiona is thrown for a loop when Steve returns from Rio with a surprise; Lip makes big changes in preparation for the arrival of his and Karen's baby; Karen and Sheila clash over Karen's new husband Jody, a good-hearted but weird guy she met in Sexaholics Anonymous; Ian tries to get into West Point; Debbie prepares for the onset of puberty; Kev and Veronica contemplate starting a family.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/seasons/684" } }
+      },
+      {
+        "id": 685,
+        "url": "http://www.tvmaze.com/seasons/685/shameless-season-3",
+        "number": 3,
+        "name": "",
+        "episodeOrder": 12,
+        "premiereDate": "2013-01-13",
+        "endDate": "2013-04-07",
+        "network": {
+          "id": 9,
+          "name": "Showtime",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "webChannel": null,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_portrait/42/106805.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/42/106805.jpg"
+        },
+        "summary":
+          "<p>Jimmy struggles to balance his relationship with Fiona and his obligations to Estefania; Fiona gets a corporate job; Frank completely alienates his children and then tries to win them back; Karen returns and drives a wedge between Lip and Mandy with dire consequences; Sheila and Jody attempt to parent Karen's baby; Ian falls in love with Mickey; Debbie suffers from growing pains; Carl goes to camp; Kev and V concoct an extremely unconventional way to have a baby of their own.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/seasons/685" } }
+      },
+      {
+        "id": 686,
+        "url": "http://www.tvmaze.com/seasons/686/shameless-season-4",
+        "number": 4,
+        "name": "",
+        "episodeOrder": 12,
+        "premiereDate": "2014-01-12",
+        "endDate": "2014-04-06",
+        "network": {
+          "id": 9,
+          "name": "Showtime",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "webChannel": null,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_portrait/42/106806.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/42/106806.jpg"
+        },
+        "summary":
+          "<p>Fiona gets into romantic trouble with her boss/boyfriend's wildcard brother, and serious legal trouble after a party goes horribly wrong; Frank battles liver disease and reconnects with a long lost family member; Lip struggles with the realities of college life; Ian forces Mickey to confront his sexuality; Debbie and Carl both find new love; Sheila tries to adopt a Native American family; Kev and V face the reality of a large family.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/seasons/686" } }
+      },
+      {
+        "id": 687,
+        "url": "http://www.tvmaze.com/seasons/687/shameless-season-5",
+        "number": 5,
+        "name": "",
+        "episodeOrder": 12,
+        "premiereDate": "2015-01-11",
+        "endDate": "2015-04-05",
+        "network": {
+          "id": 9,
+          "name": "Showtime",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "webChannel": null,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_portrait/42/106807.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/42/106807.jpg"
+        },
+        "summary":
+          "<p>Fiona gets into a surprising love triangle and experiences some character-building growing pains; Frank falls in love with a dying doctor; Lip commits himself to college life and becomes romantically involved with a mentor; Ian and Mickey struggle to manage Ian's bi-polar disorder; Sammi remains a serious thorn in everyone's side; Debbie becomes a woman in more ways than one; Carl gets in serious trouble with the law; Kev and V experience a rough patch.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/seasons/687" } }
+      },
+      {
+        "id": 8992,
+        "url": "http://www.tvmaze.com/seasons/8992/shameless-season-6",
+        "number": 6,
+        "name": "",
+        "episodeOrder": 12,
+        "premiereDate": "2016-01-10",
+        "endDate": "2016-04-03",
+        "network": {
+          "id": 9,
+          "name": "Showtime",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "webChannel": null,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_portrait/45/114891.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114891.jpg"
+        },
+        "summary":
+          "<p>The Gallaghers are finally getting their acts together and striking out on their own, but growing up could also mean growing apart. One thing's certain: nothing ever comes easy when your last name is Gallagher -- except trouble.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/seasons/8992" } }
+      },
+      {
+        "id": 32506,
+        "url": "http://www.tvmaze.com/seasons/32506/shameless-season-7",
+        "number": 7,
+        "name": "",
+        "episodeOrder": 12,
+        "premiereDate": "2016-10-02",
+        "endDate": "2016-12-18",
+        "network": {
+          "id": 9,
+          "name": "Showtime",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "webChannel": null,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_portrait/134/335733.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/134/335733.jpg"
+        },
+        "summary": "",
+        "_links": { "self": { "href": "http://api.tvmaze.com/seasons/32506" } }
+      },
+      {
+        "id": 58602,
+        "url": "http://www.tvmaze.com/seasons/58602/shameless-season-8",
+        "number": 8,
+        "name": "",
+        "episodeOrder": 12,
+        "premiereDate": "2017-11-05",
+        "endDate": "2018-01-28",
+        "network": {
+          "id": 9,
+          "name": "Showtime",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "webChannel": null,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_portrait/131/329920.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/131/329920.jpg"
+        },
+        "summary":
+          "<p>\"Shameless\" Season 8 will kick off on Sunday, Nov. 5 at 9 p.m. ET/PT. Season eight finds the Gallaghers on an upswing – Frank (William H. Macy) comes out of a drug-induced haze and decides it's finally time to be a contributing member of society, while Fiona (Emmy Rossum) faces hard decisions when she discovers her success as a landlord may mean someone else's misfortune. Lip (Jeremy Allen White) struggles with unexpected sacrifices he must make to stay sober, while Ian (Cameron Monaghan) takes up a cause in hopes of getting back with Trevor. Debbie (Emma Kenney) builds her future at welding school while juggling life as a single working mom, as Carl (Ethan Cutkosky) gets creative finding tuition money after he loses his scholarship. Meanwhile, Liam (Christian Isaiah) discovers just how different the Gallaghers are from the families of his rich classmates as Frank schools him on \"sticking it to the man.\"</p><p>This season also features new recurring guest stars Jessica Szohr as Fiona's tenant, Nessa, and Farah Tahir as Frank's new boss, Adeeb. It also welcomes back returning recurring guest stars Elliot Fletcher as Trevor, Ruby Modine as Sierra and Scott Michael Campbell as Brad. Created by Paul Abbott, the series is produced by Bonanza Productions in association with John Wells Productions and Warner Bros. Television. It is executive produced by John Wells, Nancy M. Pimental, Christopher Chulack, Krista Vernoff, Etan Frankel and Sheila Callaghan.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/seasons/58602" } }
+      },
+      {
+        "id": 77827,
+        "url": "http://www.tvmaze.com/seasons/77827/shameless-season-9",
+        "number": 9,
+        "name": "",
+        "episodeOrder": null,
+        "premiereDate": null,
+        "endDate": null,
+        "network": {
+          "id": 9,
+          "name": "Showtime",
+          "country": {
+            "name": "United States",
+            "code": "US",
+            "timezone": "America/New_York"
+          }
+        },
+        "webChannel": null,
+        "image": null,
+        "summary": null,
+        "_links": { "self": { "href": "http://api.tvmaze.com/seasons/77827" } }
+      }
+    ],
+    "episodes": [
+      {
+        "id": 11109,
+        "url": "http://www.tvmaze.com/episodes/11109/shameless-1x01-pilot",
+        "name": "Pilot",
+        "season": 1,
+        "number": 1,
+        "airdate": "2011-01-09",
+        "airtime": "22:00",
+        "airstamp": "2011-01-10T03:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114877.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114877.jpg"
+        },
+        "summary":
+          "<p>The premiere of a series following the escapades of a hard-partying Chicago father (William H. Macy) who provides no guidance to his dysfunctional brood of six. First up: daughter Fiona has her purse snatched but manages to make the acquaintance of a handsome young man, and Lip discovers an unsettling secret about younger brother Ian.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11109" } }
+      },
+      {
+        "id": 11110,
+        "url":
+          "http://www.tvmaze.com/episodes/11110/shameless-1x02-frank-the-plank",
+        "name": "Frank the Plank",
+        "season": 1,
+        "number": 2,
+        "airdate": "2011-01-16",
+        "airtime": "22:00",
+        "airstamp": "2011-01-17T03:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114878.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114878.jpg"
+        },
+        "summary":
+          "<p>A manhunt goes out for Frank after he heads off on a Friday bender and uncharacteristically fails to show up to cash his disability check. Later, he turns up in Toronto with no memory of how he got there.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11110" } }
+      },
+      {
+        "id": 11111,
+        "url":
+          "http://www.tvmaze.com/episodes/11111/shameless-1x03-aunt-ginger",
+        "name": "Aunt Ginger",
+        "season": 1,
+        "number": 3,
+        "airdate": "2011-01-23",
+        "airtime": "22:00",
+        "airstamp": "2011-01-24T03:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114879.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114879.jpg"
+        },
+        "summary":
+          "<p>Fiona contemplates romance with a policeman who has had a lifelong crush on her, but Steve isn't about to remove himself from the picture. Meanwhile, Ian spurns a girl's attentions and her brothers come looking for him; and elderly Aunt Ginger, who actually owns the Gallagher house, goes missing and the whole family joins in the search.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11111" } }
+      },
+      {
+        "id": 11112,
+        "url":
+          "http://www.tvmaze.com/episodes/11112/shameless-1x04-casey-casden",
+        "name": "Casey Casden",
+        "season": 1,
+        "number": 4,
+        "airdate": "2011-01-30",
+        "airtime": "22:00",
+        "airstamp": "2011-01-31T03:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114880.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114880.jpg"
+        },
+        "summary":
+          "<p>When Aunt Ginger takes her leave, little Debbie is left sad and lonely, so to ease the hurt she kidnaps a toddler from a birthday party, leaving the Gallaghers scrambling to come up with a plan to return the child before the Chicago Police Department fingers them for the crime. Meanwhile, Frank parries sexual advances from Karen, while Kevin's white lie involving his noninvolvement with an attractive young lady leads to a surprising conclusion.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11112" } }
+      },
+      {
+        "id": 11113,
+        "url": "http://www.tvmaze.com/episodes/11113/shameless-1x05-three-boys",
+        "name": "Three Boys",
+        "season": 1,
+        "number": 5,
+        "airdate": "2011-02-06",
+        "airtime": "22:00",
+        "airstamp": "2011-02-07T03:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114881.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114881.jpg"
+        },
+        "summary":
+          "<p>The family attempts to pull off a fake wedding when it is revealed that Veronica comes from a wealthy family; Frank is given bad medical news and doesn't do such a good job of handling it; and Steve goes cruising for a new car, with Fiona along for the ride.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11113" } }
+      },
+      {
+        "id": 11114,
+        "url":
+          "http://www.tvmaze.com/episodes/11114/shameless-1x06-killer-carl",
+        "name": "Killer Carl",
+        "season": 1,
+        "number": 6,
+        "airdate": "2011-02-13",
+        "airtime": "22:00",
+        "airstamp": "2011-02-14T03:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114882.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114882.jpg"
+        },
+        "summary":
+          "<p>Fiona scrambles to spruce up the house for an impending visit from Carl's teacher; Lip makes some extra cash by taking tests for his less-intelligent classmates; the Kash and Grab is repeatedly robbed by a local punk; and Frank's lack of business acumen costs him.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11114" } }
+      },
+      {
+        "id": 11115,
+        "url":
+          "http://www.tvmaze.com/episodes/11115/shameless-1x07-frank-gallagher-loving-husband-devoted-father",
+        "name": "Frank Gallagher: Loving Husband, Devoted Father",
+        "season": 1,
+        "number": 7,
+        "airdate": "2011-02-20",
+        "airtime": "22:00",
+        "airstamp": "2011-02-21T03:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114883.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114883.jpg"
+        },
+        "summary":
+          "<p>To come up with $6000 Frank owes to two thugs, he entertains the notion of a risky business that's going to require some big-time help from the family. Elsewhere, Ian stands up to a bully, and Fiona agrees to go away with Steve, leaving Liam with agoraphobe Sheila.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11115" } }
+      },
+      {
+        "id": 11116,
+        "url":
+          "http://www.tvmaze.com/episodes/11116/shameless-1x08-its-time-to-kill-the-turtle",
+        "name": "It's Time to Kill the Turtle",
+        "season": 1,
+        "number": 8,
+        "airdate": "2011-02-27",
+        "airtime": "22:00",
+        "airstamp": "2011-02-28T03:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114884.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114884.jpg"
+        },
+        "summary":
+          "<p>Frank goes on the wagon, which pleases Carl and Debbie, but a skeptical Lip doesn't believe their father's newfound temperance will keep him from the bottle for long. Elsewhere, Fiona scrambles to find a better-paying job, which leads her to overlook some suspicious behavior of Steve's; Kev and Veronica open their house to a foster child and get quite a surprise when they learn her family history; Ian pursues Mickey; and Sheila worries Frank has lost interest in her.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11116" } }
+      },
+      {
+        "id": 11117,
+        "url":
+          "http://www.tvmaze.com/episodes/11117/shameless-1x09-but-at-last-came-a-knock",
+        "name": "But at Last Came a Knock",
+        "season": 1,
+        "number": 9,
+        "airdate": "2011-03-06",
+        "airtime": "22:00",
+        "airstamp": "2011-03-07T03:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114885.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114885.jpg"
+        },
+        "summary":
+          "<p>Frank is in line for some settlement money, but there's a catch: he needs his ex-wife's signature on the paperwork. Elsewhere, Debbie discovers a secret about Steve; Monica turns up and announces she's taking baby Liam with her; and an angry Fiona moves out of the house and in with Steve.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11117" } }
+      },
+      {
+        "id": 11118,
+        "url":
+          "http://www.tvmaze.com/episodes/11118/shameless-1x10-nana-gallagher-had-an-affair",
+        "name": "Nana Gallagher Had an Affair",
+        "season": 1,
+        "number": 10,
+        "airdate": "2011-03-13",
+        "airtime": "22:00",
+        "airstamp": "2011-03-14T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114886.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114886.jpg"
+        },
+        "summary":
+          "<p>Monica returns and the Gallagher clan are in a tizzy as they try to determine if Frank is their real father. And Fiona, who is thoroughly disgusted with Monica, decides to move in next door with Steve. Meanwhile, Eddie invites Karen to a Purity Ball; and Frank uses Carl in an effort to thwart a disability worker's attempt to pull the plug on the state funds he receives.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11118" } }
+      },
+      {
+        "id": 11119,
+        "url":
+          "http://www.tvmaze.com/episodes/11119/shameless-1x11-daddyz-girl",
+        "name": "Daddyz Girl",
+        "season": 1,
+        "number": 11,
+        "airdate": "2011-03-20",
+        "airtime": "22:00",
+        "airstamp": "2011-03-21T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114887.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114887.jpg"
+        },
+        "summary":
+          "<p>Fiona befriends an alluring young lady after Debbie talks her into joining a mothers' group. Elsewhere, Tony suspects he knows the truth behind Steve's car-stealing business; Lip and Ian try to learn which of their uncles is Ian's dad; and Frank sees his workman's compensation benefits come to an end, so he sends the kids on a mission to find him a job, preferably one that is highly dangerous.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11119" } }
+      },
+      {
+        "id": 11120,
+        "url":
+          "http://www.tvmaze.com/episodes/11120/shameless-1x12-father-frank-full-of-grace",
+        "name": "Father Frank, Full of Grace",
+        "season": 1,
+        "number": 12,
+        "airdate": "2011-03-27",
+        "airtime": "22:00",
+        "airstamp": "2011-03-28T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114888.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114888.jpg"
+        },
+        "summary":
+          "<p>In the Season 1 finale, Steve's actual occupation is revealed and he tries to persuade Fiona to leave town with him. Meanwhile, Frank goes into hiding when his and Karen's secret is spilled; and car thieves Lip and Ian get caught and locked up, and it's up to Fiona to figure out how to spring them.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11120" } }
+      },
+      {
+        "id": 11121,
+        "url": "http://www.tvmaze.com/episodes/11121/shameless-2x01-summertime",
+        "name": "Summertime",
+        "season": 2,
+        "number": 1,
+        "airdate": "2012-01-08",
+        "airtime": "21:00",
+        "airstamp": "2012-01-09T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114862.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114862.jpg"
+        },
+        "summary":
+          "<p>In the second-season premiere, following her breakup with Steve, Fiona lands a job tending bar at a popular local joint and makes a new acquaintance in an enterprising young businessman. Meanwhile, Frank uses Liam as collateral for a gambling debt; Lip takes bets on Little League games; and Kash leaves town, so Ian decides to take over the Kash and Grab.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11121" } }
+      },
+      {
+        "id": 11122,
+        "url":
+          "http://www.tvmaze.com/episodes/11122/shameless-2x02-summer-loving",
+        "name": "Summer Loving",
+        "season": 2,
+        "number": 2,
+        "airdate": "2012-01-15",
+        "airtime": "21:00",
+        "airstamp": "2012-01-16T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114863.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114863.jpg"
+        },
+        "summary":
+          "<p>Frank spots a potential sugar momma in a bar patron named Dottie, whose health is failing fast but is living well on a city pension. Meanwhile, Fiona has her hands full with a new job tending bar, the kids and the new man in her life; and at home, Debbie wants a room of her own while Carl beds down in a van.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11122" } }
+      },
+      {
+        "id": 11123,
+        "url":
+          "http://www.tvmaze.com/episodes/11123/shameless-2x03-ill-light-a-candle-for-you-every-day",
+        "name": "I'll Light a Candle for You Every Day",
+        "season": 2,
+        "number": 3,
+        "airdate": "2012-01-22",
+        "airtime": "21:00",
+        "airstamp": "2012-01-23T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114864.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114864.jpg"
+        },
+        "summary":
+          "<p>Fiona ponders the morality of getting involved with a high-school crush who's now married; Frank pulls out all the stops in an effort to stay in the good graces of his meal ticket, Dottie; and Harry's health issues leave Debbie obsessing over death. Meanwhile, Kevin considers buying the Alibi; Lip takes a meeting with an Army officer to see about getting Ian into West Point; Jody asks for Frank's permission to marry Karen.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11123" } }
+      },
+      {
+        "id": 11124,
+        "url":
+          "http://www.tvmaze.com/episodes/11124/shameless-2x04-a-beautiful-mess",
+        "name": "A Beautiful Mess",
+        "season": 2,
+        "number": 4,
+        "airdate": "2012-01-29",
+        "airtime": "21:00",
+        "airstamp": "2012-01-30T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114865.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114865.jpg"
+        },
+        "summary":
+          "<p>After sleeping with Craig, Fiona is unprepared for the arrival of his irate wife. And on the family front, Fiona is concerned that she is dumping too much responsibility on the Gallagher children when stress causes Debbie to break out in a rash. Meanwhile, Frank begins to suspect his days in the Jackson household are coming to an end; Ian marches forward in his efforts to get into West Point; and Lip attempts to dig up dirt on Jody.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11124" } }
+      },
+      {
+        "id": 11125,
+        "url":
+          "http://www.tvmaze.com/episodes/11125/shameless-2x05-fathers-day",
+        "name": "Father's Day",
+        "season": 2,
+        "number": 5,
+        "airdate": "2012-02-05",
+        "airtime": "21:00",
+        "airstamp": "2012-02-06T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114866.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114866.jpg"
+        },
+        "summary":
+          "<p>When Eddie Jackson's body turns up, Frank thinks he should be in line to claim his pension and insurance benefits. Meanwhile, Fiona attends a high-class wedding with her sugar daddy; Lip discovers startling news about Karen and Jody; Frank's room is rented to a hooker; Veronica suspects Kev of cheating; and Sheila uncovers the truth about what transpired between Frank and Karen last year.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11125" } }
+      },
+      {
+        "id": 11126,
+        "url":
+          "http://www.tvmaze.com/episodes/11126/shameless-2x06-can-i-have-a-mother",
+        "name": "Can I Have a Mother",
+        "season": 2,
+        "number": 6,
+        "airdate": "2012-02-12",
+        "airtime": "21:00",
+        "airstamp": "2012-02-13T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114867.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114867.jpg"
+        },
+        "summary":
+          "<p>Debbie's day at day care takes a wild turn with the arrival of Grammy Gallagher, who's been released on a medical furlough. She seeks Frank's help in tracking down her old meth-lab pal who owes her a big debt. Meanwhile, Steve invites Fiona and Adam on a double date with him and his Brazilian bombshell; and when Frank finds out the beneficiary of Eddie's life-insurance policy, he hits the roof.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11126" } }
+      },
+      {
+        "id": 11127,
+        "url":
+          "http://www.tvmaze.com/episodes/11127/shameless-2x07-a-bottle-of-jean-nate",
+        "name": "A Bottle of Jean Nate",
+        "season": 2,
+        "number": 7,
+        "airdate": "2012-02-19",
+        "airtime": "21:00",
+        "airstamp": "2012-02-20T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114868.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114868.jpg"
+        },
+        "summary":
+          "<p>Jasmine throws an end-of-summer blowout and invites Fiona down to David's boat but neglects to inform her that Steve and Estefania will also be on board; Lip tries to get back into Karen's good graces and prepares a prenup for her and Jody. Meanwhile, the Ian and Lip impasse heats up into a physical confrontation; Frank tires of doing Grammy's bidding and wants her out, but Fiona is enjoying the old girl's company.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11127" } }
+      },
+      {
+        "id": 11128,
+        "url": "http://www.tvmaze.com/episodes/11128/shameless-2x08-parenthood",
+        "name": "Parenthood",
+        "season": 2,
+        "number": 8,
+        "airdate": "2012-03-04",
+        "airtime": "21:00",
+        "airstamp": "2012-03-05T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114869.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114869.jpg"
+        },
+        "summary":
+          "<p>While Jody and Sheila comfort a dying Grammy, Frank steps out and stops at the Kash and Grab, where he walks in on Ian and Mickey in a compromising position. Meanwhile, Lip wants to quit school, but Fiona tells him that if he reconsiders, she'll go back and get her GED; Lip takes Karen to a number of adoption agencies and doesn't like what she has planned; Steve decides to coach Carl's football team.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11128" } }
+      },
+      {
+        "id": 11129,
+        "url":
+          "http://www.tvmaze.com/episodes/11129/shameless-2x09-hurricane-monica",
+        "name": "Hurricane Monica",
+        "season": 2,
+        "number": 9,
+        "airdate": "2012-03-11",
+        "airtime": "21:00",
+        "airstamp": "2012-03-12T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114870.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114870.jpg"
+        },
+        "summary":
+          "<p>Monica blows back into town and immediately hooks up with Frank for more shenanigans, but the kids are left wondering if she's finally here to stay, and Frank is eager to pick up the ashes of his late mother and reclaim the cash he believes she's hidden. Meanwhile, after Fiona kicks out Lip, he kicks around with stops at Karen's and Steve's. Later, Sheila and Jody think the house is haunted by Eddie's ghost.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11129" } }
+      },
+      {
+        "id": 11130,
+        "url":
+          "http://www.tvmaze.com/episodes/11130/shameless-2x10-a-great-cause",
+        "name": "A Great Cause",
+        "season": 2,
+        "number": 10,
+        "airdate": "2012-03-18",
+        "airtime": "21:00",
+        "airstamp": "2012-03-19T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114871.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114871.jpg"
+        },
+        "summary":
+          "<p>With Monica around and pitching in, Fiona is able to devote more time to pursuing her GED and seek a promotion at the club; Steve learns Estefania is still in love with her ex-boyfriend, so he and Lip conspire to sneak her beau back into the country. Meanwhile, Ian is busy dodging a vengeful Terry Milkovich; and Lip ponders the possibility that he might be poppa to Mandy's impending arrival.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11130" } }
+      },
+      {
+        "id": 11131,
+        "url":
+          "http://www.tvmaze.com/episodes/11131/shameless-2x11-just-like-the-pilgrims-intended",
+        "name": "Just Like the Pilgrims Intended",
+        "season": 2,
+        "number": 11,
+        "airdate": "2012-03-25",
+        "airtime": "21:00",
+        "airstamp": "2012-03-26T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114872.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114872.jpg"
+        },
+        "summary":
+          "<p>Fiona's Thanksgiving plans get put on the back burner when Frank tries to get Monica out of bed and help her out of her depression. Meanwhile, Estefania and Marco's rocky reunion takes a turn for the better when Steve offers to surrender his identity so Marco can stay in the country and marry. Later, Karen goes into labor; and Debbie worries that depression may run in the Gallagher family.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11131" } }
+      },
+      {
+        "id": 11132,
+        "url":
+          "http://www.tvmaze.com/episodes/11132/shameless-2x12-fiona-interrupted",
+        "name": "Fiona Interrupted",
+        "season": 2,
+        "number": 12,
+        "airdate": "2012-04-01",
+        "airtime": "21:00",
+        "airstamp": "2012-04-02T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114873.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114873.jpg"
+        },
+        "summary":
+          "<p>Jimmy gets back into Fiona's good graces and decides to have her meet his family; Frank plots to free Monica from the psychiatric institution; and Jody and Sheila attempt to hide Karen's newborn in the second-season finale. Later, Ian runs into the guy he slept with; and the late Eddie's long-awaited insurance check arrives.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11132" } }
+      },
+      {
+        "id": 11133,
+        "url":
+          "http://www.tvmaze.com/episodes/11133/shameless-3x01-el-gran-canon",
+        "name": "El Gran Cañon",
+        "season": 3,
+        "number": 1,
+        "airdate": "2013-01-13",
+        "airtime": "21:00",
+        "airstamp": "2013-01-14T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114846.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114846.jpg"
+        },
+        "summary":
+          "<p>In the Season 3 premiere, Fiona adapts to living with Jimmy; Frank awakens in a strange place; and Lip gets sentenced to community service. Meanwhile, Jody and Sheila are losing sleep over Baby Hymie's nocturnal restlessness.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11133" } }
+      },
+      {
+        "id": 11134,
+        "url":
+          "http://www.tvmaze.com/episodes/11134/shameless-3x02-the-american-dream",
+        "name": "The American Dream",
+        "season": 3,
+        "number": 2,
+        "airdate": "2013-01-20",
+        "airtime": "21:00",
+        "airstamp": "2013-01-21T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114847.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114847.jpg"
+        },
+        "summary":
+          "<p>Fiona has second thoughts about loaning money to Meg; and a drunken Frank staggers home, where no one wants him, until he proves to be the only one who can quiet fussy Baby Hymie. Meanwhile, Lip's community-service encounter with a North Side youth group gives him a moneymaking idea, while Kev's wife returns with her son Kyle and Frank puts in a call to child services.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11134" } }
+      },
+      {
+        "id": 11135,
+        "url":
+          "http://www.tvmaze.com/episodes/11135/shameless-3x03-may-i-trim-your-hedges",
+        "name": "May I Trim Your Hedges?",
+        "season": 3,
+        "number": 3,
+        "airdate": "2013-01-27",
+        "airtime": "21:00",
+        "airstamp": "2013-01-28T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114848.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114848.jpg"
+        },
+        "summary":
+          "<p>Frank works a scam on a cancer foundation; and Fiona is shocked to learn what she must do for a job as a grocery-store cashier and teams with Veronica to get back at the manager. Meanwhile, crusader Lip hunts down sex offenders in the neighborhood.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11135" } }
+      },
+      {
+        "id": 11136,
+        "url":
+          "http://www.tvmaze.com/episodes/11136/shameless-3x04-the-helpful-gallaghers",
+        "name": "The Helpful Gallaghers",
+        "season": 3,
+        "number": 4,
+        "airdate": "2013-02-10",
+        "airtime": "21:00",
+        "airstamp": "2013-02-11T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114849.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114849.jpg"
+        },
+        "summary":
+          "<p>Carl heads to cancer camp, where the facility's activities leave a lot to be desired, while Frank goes on babysitting duty and Sheila plans to introduce Jody to \"toy time.\" Later, Fiona rallies coworkers against the boss; Lip and Mandy rescue her half sister from foster care; and Jimmy gets bad news about his parents.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11136" } }
+      },
+      {
+        "id": 11137,
+        "url":
+          "http://www.tvmaze.com/episodes/11137/shameless-3x05-the-sins-of-my-caretaker",
+        "name": "The Sins of My Caretaker",
+        "season": 3,
+        "number": 5,
+        "airdate": "2013-02-17",
+        "airtime": "21:00",
+        "airstamp": "2013-02-18T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114850.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114850.jpg"
+        },
+        "summary":
+          "<p>Frank has a major problem on his hands when the city announces it will be doing work on the main sewer and they'll be digging up his yard, where Aunt Ginger's remains are located. Meanwhile, Fiona's boss finds her work unsatisfactory; Molly uncovers a startling secret; and Ned wants Ian to break into his wife's house.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11137" } }
+      },
+      {
+        "id": 11138,
+        "url":
+          "http://www.tvmaze.com/episodes/11138/shameless-3x06-cascading-failures",
+        "name": "Cascading Failures",
+        "season": 3,
+        "number": 6,
+        "airdate": "2013-02-24",
+        "airtime": "21:00",
+        "airstamp": "2013-02-25T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114851.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114851.jpg"
+        },
+        "summary":
+          "<p>The Department of Family Services takes away the Gallagher children, and Fiona is desperate to get them back, so much so that she must round up Frank, get him to act responsibly and make a court appearance. Meanwhile, Kev and Veronica decide to use her mother as a surrogate; and Terry catches Mickey and Ian in flagrante.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11138" } }
+      },
+      {
+        "id": 11139,
+        "url":
+          "http://www.tvmaze.com/episodes/11139/shameless-3x07-a-long-way-from-home",
+        "name": "A Long Way from Home",
+        "season": 3,
+        "number": 7,
+        "airdate": "2013-03-03",
+        "airtime": "21:00",
+        "airstamp": "2013-03-04T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114852.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114852.jpg"
+        },
+        "summary":
+          "<p>Fiona makes a fateful decision about the future of her and her siblings, and recruits Lip for a plan to forge Aunt Ginger's will, but first they need a dead body. Meanwhile, Carl and Debbie deal with life in their foster homes; Frank sobers up in preparation for a court date; and Timmy Wong and his mother come to Sheila's for Hymie.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11139" } }
+      },
+      {
+        "id": 11140,
+        "url":
+          "http://www.tvmaze.com/episodes/11140/shameless-3x08-where-theres-a-will",
+        "name": "Where There's a Will",
+        "season": 3,
+        "number": 8,
+        "airdate": "2013-03-10",
+        "airtime": "21:00",
+        "airstamp": "2013-03-11T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114853.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114853.jpg"
+        },
+        "summary":
+          "<p>At the gathering for Aunt Ginger's fake funeral, the family meet Frank's wily cousin Patrick, who might just be devious enough to \"out-Gallagher\" the Gallaghers.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11140" } }
+      },
+      {
+        "id": 11141,
+        "url":
+          "http://www.tvmaze.com/episodes/11141/shameless-3x09-frank-the-plumber",
+        "name": "Frank the Plumber",
+        "season": 3,
+        "number": 9,
+        "airdate": "2013-03-17",
+        "airtime": "21:00",
+        "airstamp": "2013-03-18T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114854.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114854.jpg"
+        },
+        "summary":
+          "<p>Fiona has a difficult time dealing with the corporate culture in her new office job, while Frank, needing medical coverage, somehow gets mixed up in a gay-rights event, where he rubs elbows with a powerful activist.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11141" } }
+      },
+      {
+        "id": 11142,
+        "url":
+          "http://www.tvmaze.com/episodes/11142/shameless-3x10-civil-wrongs",
+        "name": "Civil Wrongs",
+        "season": 3,
+        "number": 10,
+        "airdate": "2013-03-24",
+        "airtime": "21:00",
+        "airstamp": "2013-03-25T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114855.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114855.jpg"
+        },
+        "summary":
+          "<p>Just when Fiona has settled into her job and found some structure to her life, Jimmy drops a bomb on her, while Frank revels in being the face of the gay-rights movement, and sees a way to make even more money out of his newfound celebrity.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11142" } }
+      },
+      {
+        "id": 11143,
+        "url":
+          "http://www.tvmaze.com/episodes/11143/shameless-3x11-order-room-service",
+        "name": "Order Room Service",
+        "season": 3,
+        "number": 11,
+        "airdate": "2013-03-31",
+        "airtime": "21:00",
+        "airstamp": "2013-04-01T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114856.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114856.jpg"
+        },
+        "summary":
+          "<p>Fiona takes the kids camping, while homeless Frank tries to get Carl to sneak him into the Gallagher van for the night.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11143" } }
+      },
+      {
+        "id": 11144,
+        "url":
+          "http://www.tvmaze.com/episodes/11144/shameless-3x12-survival-of-the-fittest",
+        "name": "Survival of the Fittest",
+        "season": 3,
+        "number": 12,
+        "airdate": "2013-04-07",
+        "airtime": "21:00",
+        "airstamp": "2013-04-08T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114857.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114857.jpg"
+        },
+        "summary":
+          "<p>In the Season 3 finale, Fiona and the family throw a surprise party for Lip's high-school graduation; and Frank uses his gambling winnings to take Lip out for a nice dad-lad dinner.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11144" } }
+      },
+      {
+        "id": 11145,
+        "url":
+          "http://www.tvmaze.com/episodes/11145/shameless-4x01-simple-pleasures",
+        "name": "Simple Pleasures",
+        "season": 4,
+        "number": 1,
+        "airdate": "2014-01-12",
+        "airtime": "21:00",
+        "airstamp": "2014-01-13T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114834.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114834.jpg"
+        },
+        "summary":
+          "<p>Season 4 begins with a drug-addled and deathly ill Frank reappearing. Meanwhile, Fiona cares for the household and works at Worldwide Cup with her boyfriend boss Mike Pratt, and attempts to connect with Debbie and Carl, who are dealing with the upheaval of their adolescent hormones.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11145" } }
+      },
+      {
+        "id": 11146,
+        "url":
+          "http://www.tvmaze.com/episodes/11146/shameless-4x02-my-oldest-daughter",
+        "name": "My Oldest Daughter",
+        "season": 4,
+        "number": 2,
+        "airdate": "2014-01-19",
+        "airtime": "21:00",
+        "airstamp": "2014-01-20T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114835.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114835.jpg"
+        },
+        "summary":
+          "<p>Fiona is involved in a road rage incident that damages a company car and leads her to tell a lie about how it happened. Meanwhile, Lip struggles in school and with the ladies.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11146" } }
+      },
+      {
+        "id": 11147,
+        "url":
+          "http://www.tvmaze.com/episodes/11147/shameless-4x03-like-father-like-daughter",
+        "name": "Like Father, Like Daughter",
+        "season": 4,
+        "number": 3,
+        "airdate": "2014-01-26",
+        "airtime": "21:00",
+        "airstamp": "2014-01-27T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114836.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114836.jpg"
+        },
+        "summary":
+          "<p>Frank stalks his previously unseen daughter Sammi and is surprised to learn that she has a son. Meanwhile, Fiona and Mike get serious; and Carl steals dogs and holds them for ransom, so he can earn some drug money for Frank. Also: Sheila has her first successful online date with a Native American cowboy named Roger Running Tree.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11147" } }
+      },
+      {
+        "id": 11148,
+        "url":
+          "http://www.tvmaze.com/episodes/11148/shameless-4x04-strangers-on-a-train",
+        "name": "Strangers on a Train",
+        "season": 4,
+        "number": 4,
+        "airdate": "2014-02-02",
+        "airtime": "21:00",
+        "airstamp": "2014-02-03T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114837.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114837.jpg"
+        },
+        "summary":
+          "<p>Fiona continues her secret affair with Robbie, but her infidelity is threatened to be exposed when Mike shows up at Robbie's apartment while Fiona is there. Meanwhile, Frank tries to contrive an \"accident\" that will net him a big insurance payout, so he can afford a potential liver transplant.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11148" } }
+      },
+      {
+        "id": 11149,
+        "url":
+          "http://www.tvmaze.com/episodes/11149/shameless-4x05-theres-the-rub",
+        "name": "There's the Rub",
+        "season": 4,
+        "number": 5,
+        "airdate": "2014-02-09",
+        "airtime": "21:00",
+        "airstamp": "2014-02-10T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114838.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114838.jpg"
+        },
+        "summary":
+          "<p>Fiona's series of bad decisions involving Robbie finally boil over. Meanwhile, Frank and Sammi pursue a cure for Frank's liver trouble and try to catch up on missed father-daughter time; and Lip gets a surprise visit at college from Army investigators.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11149" } }
+      },
+      {
+        "id": 11150,
+        "url": "http://www.tvmaze.com/episodes/11150/shameless-4x06-iron-city",
+        "name": "Iron City",
+        "season": 4,
+        "number": 6,
+        "airdate": "2014-02-16",
+        "airtime": "21:00",
+        "airstamp": "2014-02-17T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114839.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114839.jpg"
+        },
+        "summary":
+          "<p>The aftermath of Liam's accident lands Fiona in county jail, unsure of Liam's condition or her future. The family, minus Frank, wait nervously for any update on Liam's status at the hospital. Meanwhile, after almost being killed by the sweat lodge, Frank wakes up in the emergency room and gets some sobering news about his declining health.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11150" } }
+      },
+      {
+        "id": 11151,
+        "url":
+          "http://www.tvmaze.com/episodes/11151/shameless-4x07-a-jailbird-invalid-martyr-cutter-retard-and-parasitic-twin",
+        "name":
+          "A Jailbird, Invalid, Martyr, Cutter, Retard, and Parasitic Twin",
+        "season": 4,
+        "number": 7,
+        "airdate": "2014-02-23",
+        "airtime": "21:00",
+        "airstamp": "2014-02-24T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114840.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114840.jpg"
+        },
+        "summary":
+          "<p>Lip is faced with being the Gallagher's guardian when Fiona is released from jail and ordered by the court to remain inside the house, and Frank continues to be out of commission due to his illness. Fortunately, he gets some unexpected assistance from Amanda, his roommate's girlfriend.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11151" } }
+      },
+      {
+        "id": 11152,
+        "url":
+          "http://www.tvmaze.com/episodes/11152/shameless-4x08-hope-springs-paternal",
+        "name": "Hope Springs Paternal",
+        "season": 4,
+        "number": 8,
+        "airdate": "2014-03-09",
+        "airtime": "21:00",
+        "airstamp": "2014-03-10T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114841.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114841.jpg"
+        },
+        "summary":
+          "<p>Fiona rids the house of all suspicious items to prepare for a visit from her probation officer, but her efforts aren't appreciated by Debbie and Carl. Meanwhile, Ian gets kicked out of Mickey's house by a hammer-wielding Svetlana and makes a long-awaited return to the Gallagher house.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11152" } }
+      },
+      {
+        "id": 11153,
+        "url":
+          "http://www.tvmaze.com/episodes/11153/shameless-4x09-the-legend-of-bonnie-and-carl",
+        "name": "The Legend of Bonnie and Carl",
+        "season": 4,
+        "number": 9,
+        "airdate": "2014-03-16",
+        "airtime": "21:00",
+        "airstamp": "2014-03-17T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114842.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114842.jpg"
+        },
+        "summary":
+          "<p>Carl connects with a troubled girl in detention; Lip grows close to his roommate's ex-girlfriend; Debbie tries to make life miserable for the new girl in Matty's life; Fiona struggles to get a job now that she has a criminal record; Sheila returns from her trip to the reservation with plans to adopt Native American kids; Mickey ignores the birth of his son to spend time with an erratic-behaving Ian.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11153" } }
+      },
+      {
+        "id": 11154,
+        "url":
+          "http://www.tvmaze.com/episodes/11154/shameless-4x10-liver-i-hardly-know-her",
+        "name": "Liver, I Hardly Know Her",
+        "season": 4,
+        "number": 10,
+        "airdate": "2014-03-23",
+        "airtime": "21:00",
+        "airstamp": "2014-03-24T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114843.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114843.jpg"
+        },
+        "summary":
+          "<p>Fiona goes wild and violates multiple terms of her probation by partying with Robbie's degenerate friends. A search for her gets underway when she fails to contact anyone.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11154" } }
+      },
+      {
+        "id": 11155,
+        "url": "http://www.tvmaze.com/episodes/11155/shameless-4x11-emily",
+        "name": "Emily",
+        "season": 4,
+        "number": 11,
+        "airdate": "2014-03-30",
+        "airtime": "21:00",
+        "airstamp": "2014-03-31T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114844.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114844.jpg"
+        },
+        "summary":
+          "<p>Fiona is taken to a correctional facility; Frank wakes up from his operation suffering from post-operative delirium; Ian crashes the christening for Mickey's son; Amanda's parents bribe Lip to stay away from their daughter; Debbie meets an older student with a dark ulterior motive.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11155" } }
+      },
+      {
+        "id": 11156,
+        "url": "http://www.tvmaze.com/episodes/11156/shameless-4x12-lazarus",
+        "name": "Lazarus",
+        "season": 4,
+        "number": 12,
+        "airdate": "2014-04-06",
+        "airtime": "21:00",
+        "airstamp": "2014-04-07T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114845.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114845.jpg"
+        },
+        "summary":
+          "<p>Season 4 ends with Sheila fighting for custody of the Native American kids and clashing with Sammi over where they will all live once Frank is released. Meanwhile, Fiona passes a drug test, gets released from jail and lands a job at Patsy's Pies with the help of her parole officer; and Frank begins to feel again like his old, troubled self.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11156" } }
+      },
+      {
+        "id": 11157,
+        "url":
+          "http://www.tvmaze.com/episodes/11157/shameless-5x01-milk-of-the-gods",
+        "name": "Milk of the Gods",
+        "season": 5,
+        "number": 1,
+        "airdate": "2015-01-11",
+        "airtime": "21:00",
+        "airstamp": "2015-01-12T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/7/19029.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/7/19029.jpg"
+        },
+        "summary":
+          "<p>Season 5 begins with Fiona balancing her job and a crush on her older boss. Meanwhile, Lip leaves college and heads back home to work a demolition job; Frank unveils the secret project he's been working on; Ian helps a pregnant Svetlana take care of baby Yevgeny; and Kevin plays stay-at-home dad when Veronica goes to work at the Alibi.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11157" } }
+      },
+      {
+        "id": 11158,
+        "url":
+          "http://www.tvmaze.com/episodes/11158/shameless-5x02-im-the-liver",
+        "name": "I'm the Liver",
+        "season": 5,
+        "number": 2,
+        "airdate": "2015-01-18",
+        "airtime": "21:00",
+        "airstamp": "2015-01-19T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/7/19530.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/7/19530.jpg"
+        },
+        "summary":
+          "<p>Frank tries to talk Sheila out of an offer from two lesbians who want to buy her home and begins warning everyone of the neighborhood's impending gentrification. Meanwhile, Lip starts his first day of work; Kev bonds with Svetlana; Ian plots revenge with Mickey and Mandy against a homophobic military funeral protest; and Fiona officially comes off house arrest.</p><p><br></p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11158" } }
+      },
+      {
+        "id": 11159,
+        "url":
+          "http://www.tvmaze.com/episodes/11159/shameless-5x03-the-two-lisas",
+        "name": "The Two Lisas",
+        "season": 5,
+        "number": 3,
+        "airdate": "2015-01-25",
+        "airtime": "21:00",
+        "airstamp": "2015-01-26T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114832.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114832.jpg"
+        },
+        "summary":
+          "<p>Frank tries to scare off the two lesbians who are buying up property in the neighborhood; Debbie throws a wild party; Fiona agrees to go to a concert with Davis; Carl discovers a hidden talent; Ian goes on a crazed cleaning spree and asks Lip to help convince Mandy not to move to Indiana with her abusive boyfriend.</p>",
+        "_links": { "self": { "href": "http://api.tvmaze.com/episodes/11159" } }
+      },
+      {
+        "id": 109518,
+        "url":
+          "http://www.tvmaze.com/episodes/109518/shameless-5x04-a-night-to-remem-wait-what",
+        "name": "A Night to Remem... Wait, What?",
+        "season": 5,
+        "number": 4,
+        "airdate": "2015-02-01",
+        "airtime": "21:00",
+        "airstamp": "2015-02-02T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114833.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114833.jpg"
+        },
+        "summary":
+          "<p>Frank tries to retrace his steps after an epic bender to find what he did with his six-figure insurance settlement; Gus admits he is falling in love with Fiona; Lip visits Amanda in Miami; Carl starts a new job as a drug dealer; Debbie develops a new crush; Debbie begins training at Derek's boxing gym; Kev blows off a date because he doesn't want to leave the girls with a sitter.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/109518" }
+        }
+      },
+      {
+        "id": 109519,
+        "url":
+          "http://www.tvmaze.com/episodes/109519/shameless-5x05-rite-of-passage",
+        "name": "Rite of Passage",
+        "season": 5,
+        "number": 5,
+        "airdate": "2015-02-08",
+        "airtime": "21:00",
+        "airstamp": "2015-02-09T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/8/21350.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/8/21350.jpg"
+        },
+        "summary":
+          "<p>Fiona and Gus navigate the awkwardness of their quickie wedding, but her plans to announce the marriage at a family dinner unravels when a coworker overdoses on heroin. Meanwhile, Frank avoids an irate Sammi; Debbie trains at Derek's gym; Mickey grows more concerned with Ian's erratic behavior; and Lip decides to head back to school early.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/109519" }
+        }
+      },
+      {
+        "id": 109520,
+        "url":
+          "http://www.tvmaze.com/episodes/109520/shameless-5x06-crazy-love",
+        "name": "Crazy Love",
+        "season": 5,
+        "number": 6,
+        "airdate": "2015-02-15",
+        "airtime": "21:00",
+        "airstamp": "2015-02-16T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114831.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114831.jpg"
+        },
+        "summary":
+          "<p>Newlywed Fiona struggles to remain faithful when Jimmy returns and relentlessly pursues her; Ian steals Mickey and Svetlana's baby; Sammi takes over the Gallagher house and enforces strict curfews; Debbie starts high school; Veronica grapples with her decision to separate from Kev.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/109520" }
+        }
+      },
+      {
+        "id": 116524,
+        "url":
+          "http://www.tvmaze.com/episodes/116524/shameless-5x07-tell-me-you-fucking-need-me",
+        "name": "Tell Me You Fucking Need Me",
+        "season": 5,
+        "number": 7,
+        "airdate": "2015-03-01",
+        "airtime": "21:00",
+        "airstamp": "2015-03-02T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/9/22752.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/9/22752.jpg"
+        },
+        "summary":
+          "<p>Ian gets upset when he learns he is under a mandatory 72-hour hold at the psych ward; Frank returns home from the hospital and refuses to apologize to Sammi; Jimmy and Gus have a face-to-face meeting about their futures with Fiona; Lip discovers he never filled out his financial aid forms and now owes thousands in tuition; Debbie tries to get out of the \"friend zone\" with Derek.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/116524" }
+        }
+      },
+      {
+        "id": 116525,
+        "url":
+          "http://www.tvmaze.com/episodes/116525/shameless-5x08-uncle-carl",
+        "name": "Uncle Carl",
+        "season": 5,
+        "number": 8,
+        "airdate": "2015-03-08",
+        "airtime": "21:00",
+        "airstamp": "2015-03-09T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/9/23237.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/9/23237.jpg"
+        },
+        "summary":
+          "<p>Ian returns home from the psych ward but refuses to accept his bipolar diagnosis or take his medication; Gus tells Fiona he is going on tour and that they need time apart; Frank recovers from his gunshot wound and plots revenge against Sammi; Carl is asked by his boss to run drugs to Indiana; Lip convinces Kev to sell drugs in the dorms.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/116525" }
+        }
+      },
+      {
+        "id": 116526,
+        "url":
+          "http://www.tvmaze.com/episodes/116526/shameless-5x09-carls-first-sentencing",
+        "name": "Carl's First Sentencing",
+        "season": 5,
+        "number": 9,
+        "airdate": "2015-03-15",
+        "airtime": "21:00",
+        "airstamp": "2015-03-16T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/9/23940.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/9/23940.jpg"
+        },
+        "summary":
+          "<p>Frank plays tour guide to the seedier side of life for his doctor after she is diagnosed with terminal cancer; Fiona prepares Carl for his sentencing hearing; Lip sleeps with a professor; Ian realizes he needs to get back on his meds.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/116526" }
+        }
+      },
+      {
+        "id": 116527,
+        "url":
+          "http://www.tvmaze.com/episodes/116527/shameless-5x10-south-side-rules",
+        "name": "South Side Rules",
+        "season": 5,
+        "number": 10,
+        "airdate": "2015-03-22",
+        "airtime": "21:00",
+        "airstamp": "2015-03-23T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/9/24324.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/9/24324.jpg"
+        },
+        "summary":
+          "<p>Frank starts to enjoy the company of his new sick friend and formerly uptight doctor, but she dumps him when she suspects he is developing feelings for her.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/116527" }
+        }
+      },
+      {
+        "id": 116528,
+        "url":
+          "http://www.tvmaze.com/episodes/116528/shameless-5x11-drugs-actually",
+        "name": "Drugs Actually",
+        "season": 5,
+        "number": 11,
+        "airdate": "2015-03-29",
+        "airtime": "21:00",
+        "airstamp": "2015-03-30T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/9/24654.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/9/24654.jpg"
+        },
+        "summary":
+          "<p>Frank becomes concerned about Bianca's increasingly erratic and dangerous behavior.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/116528" }
+        }
+      },
+      {
+        "id": 116529,
+        "url":
+          "http://www.tvmaze.com/episodes/116529/shameless-5x12-love-songs-in-the-key-of-gallagher",
+        "name": "Love Songs (In the Key of Gallagher)",
+        "season": 5,
+        "number": 12,
+        "airdate": "2015-04-05",
+        "airtime": "21:00",
+        "airstamp": "2015-04-06T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/10/25049.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/10/25049.jpg"
+        },
+        "summary":
+          "<p>Season 5 ends with Fiona reuniting with Gus after he returns from his tour, but she struggles with the fact that her feelings for Sean have turned into love. In Costa Rica, Frank has love struggles of his own while he works to keep Bianca happy.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/116529" }
+        }
+      },
+      {
+        "id": 203656,
+        "url":
+          "http://www.tvmaze.com/episodes/203656/shameless-6x01-i-only-miss-her-when-im-breathing",
+        "name": "I Only Miss Her When I'm Breathing",
+        "season": 6,
+        "number": 1,
+        "airdate": "2016-01-10",
+        "airtime": "21:00",
+        "airstamp": "2016-01-11T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/37/93966.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/37/93966.jpg"
+        },
+        "summary":
+          "<p>Frank's new found appreciation for life freaks everyone out; Fiona is determined to get Ian to take his meds; Debbie takes a pregnancy test.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/203656" }
+        }
+      },
+      {
+        "id": 500594,
+        "url":
+          "http://www.tvmaze.com/episodes/500594/shameless-6x02-abortionrules",
+        "name": "#AbortionRules",
+        "season": 6,
+        "number": 2,
+        "airdate": "2016-01-17",
+        "airtime": "21:00",
+        "airstamp": "2016-01-18T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/40/100083.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/40/100083.jpg"
+        },
+        "summary":
+          "<p>Debbie carries a bag of flour around all day to prove Fiona wrong about her ability to raise a child while going to school, but she quickly realizes people are not as accommodating to mothers and babies as she hoped.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/500594" }
+        }
+      },
+      {
+        "id": 500595,
+        "url":
+          "http://www.tvmaze.com/episodes/500595/shameless-6x03-the-f-word",
+        "name": "The F Word",
+        "season": 6,
+        "number": 3,
+        "airdate": "2016-01-24",
+        "airtime": "21:00",
+        "airstamp": "2016-01-25T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/41/102697.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/41/102697.jpg"
+        },
+        "summary":
+          "<p>Frank teaches Debbie how to work the welfare system to her advantage. Meanwhile, Kevin and Veronica visit a paralyzed Yanis in the hospital and try to make amends, but Yanis arrives home and tries to kill the two Lisas with Kev's van.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/500595" }
+        }
+      },
+      {
+        "id": 533097,
+        "url":
+          "http://www.tvmaze.com/episodes/533097/shameless-6x04-going-once-going-twice",
+        "name": "Going Once, Going Twice",
+        "season": 6,
+        "number": 4,
+        "airdate": "2016-01-31",
+        "airtime": "21:00",
+        "airstamp": "2016-02-01T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/42/106922.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/42/106922.jpg"
+        },
+        "summary":
+          "<p>Fiona confronts Patrick about the eviction notice, but her only choice is to get a mortgage from the bank and bid on the house at auction. Meanwhile, Ian bakes cookies for the firehouse and discovers he was saved by the shift of gay firemen.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/533097" }
+        }
+      },
+      {
+        "id": 555894,
+        "url": "http://www.tvmaze.com/episodes/555894/shameless-6x05-refugees",
+        "name": "Refugees",
+        "season": 6,
+        "number": 5,
+        "airdate": "2016-02-07",
+        "airtime": "21:00",
+        "airstamp": "2016-02-08T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/44/110136.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/44/110136.jpg"
+        },
+        "summary":
+          "<p>Frank helps Erica through the cancer concierge process; Debbie ups her game as a shoulder for Tyler to lean on; Lip tries to protect Helene from the fallout of Amanda's disclosure, but she refuses to see him anymore.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/555894" }
+        }
+      },
+      {
+        "id": 500596,
+        "url": "http://www.tvmaze.com/episodes/500596/shameless-6x06-nsfw",
+        "name": "NSFW",
+        "season": 6,
+        "number": 6,
+        "airdate": "2016-02-14",
+        "airtime": "21:00",
+        "airstamp": "2016-02-15T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/44/110138.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/44/110138.jpg"
+        },
+        "summary":
+          "<p>Ian's relationship with Caleb gets more serious. Meanwhile, Lip is called to appear before a faculty disciplinary committee, but Helene accepts the blame for the scandal and tells the committee she will no longer teach or see Lip.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/500596" }
+        }
+      },
+      {
+        "id": 432076,
+        "url":
+          "http://www.tvmaze.com/episodes/432076/shameless-6x07-pimps-paradise",
+        "name": "Pimp's Paradise",
+        "season": 6,
+        "number": 7,
+        "airdate": "2016-02-21",
+        "airtime": "21:00",
+        "airstamp": "2016-02-22T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/45/114789.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/45/114789.jpg"
+        },
+        "summary":
+          "<p>Carl struggles with Nick's absence, inviting his friends to the Gallagher home for a party; Frank and Queenie rule the house; Debbie returns.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/432076" }
+        }
+      },
+      {
+        "id": 500597,
+        "url":
+          "http://www.tvmaze.com/episodes/500597/shameless-6x08-be-a-good-boy-come-for-grandma",
+        "name": "Be a Good Boy. Come for Grandma.",
+        "season": 6,
+        "number": 8,
+        "airdate": "2016-03-06",
+        "airtime": "21:00",
+        "airstamp": "2016-03-07T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/47/119494.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/47/119494.jpg"
+        },
+        "summary":
+          "<p>Fiona tries to get Sean's son to like her, but when he starts warming up to her, he takes a gun from the Gallagher house.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/500597" }
+        }
+      },
+      {
+        "id": 595727,
+        "url":
+          "http://www.tvmaze.com/episodes/595727/shameless-6x09-a-yurt-of-ones-own",
+        "name": "A Yurt of One's Own",
+        "season": 6,
+        "number": 9,
+        "airdate": "2016-03-13",
+        "airtime": "21:00",
+        "airstamp": "2016-03-14T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/48/121426.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/48/121426.jpg"
+        },
+        "summary":
+          "<p>Fiona tries to make amends with Sean, who is uncooperative; Debbie and Queenie travel with Frank to a rural commune.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/595727" }
+        }
+      },
+      {
+        "id": 500598,
+        "url":
+          "http://www.tvmaze.com/episodes/500598/shameless-6x10-paradise-lost",
+        "name": "Paradise Lost",
+        "season": 6,
+        "number": 10,
+        "airdate": "2016-03-20",
+        "airtime": "21:00",
+        "airstamp": "2016-03-21T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/49/123833.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/49/123833.jpg"
+        },
+        "summary":
+          "<p>Sean moves into the Gallagher house; Fiona plans a traditional wedding; Kev is unhappy about the green card marriage.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/500598" }
+        }
+      },
+      {
+        "id": 500599,
+        "url":
+          "http://www.tvmaze.com/episodes/500599/shameless-6x11-sleep-no-more",
+        "name": "Sleep No More",
+        "season": 6,
+        "number": 11,
+        "airdate": "2016-03-27",
+        "airtime": "21:00",
+        "airstamp": "2016-03-28T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/50/126534.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/50/126534.jpg"
+        },
+        "summary":
+          "<p>Frank offers to pay for Fiona's reception; when Sean worries that Frank will only hurt Fiona in the end, he confronts Frank.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/500599" }
+        }
+      },
+      {
+        "id": 617861,
+        "url":
+          "http://www.tvmaze.com/episodes/617861/shameless-6x12-familia-supra-gallegorious-omnia",
+        "name": "Familia Supra Gallegorious Omnia!",
+        "season": 6,
+        "number": 12,
+        "airdate": "2016-04-03",
+        "airtime": "21:00",
+        "airstamp": "2016-04-04T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/51/129500.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/51/129500.jpg"
+        },
+        "summary":
+          "<p>It's wedding day and Frank shows up uninvited - and high.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/617861" }
+        }
+      },
+      {
+        "id": 768057,
+        "url": "http://www.tvmaze.com/episodes/768057/shameless-7x01-hiraeth",
+        "name": "Hiraeth",
+        "season": 7,
+        "number": 1,
+        "airdate": "2016-10-02",
+        "airtime": "21:00",
+        "airstamp": "2016-10-03T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/76/191005.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/76/191005.jpg"
+        },
+        "summary":
+          "<p>Frank wakes up after a month-long coma to find no one missed him. Worried she isn't a good mother, Debbie takes a criminal approach to making sure Franny grows up wealthy. Meanwhile, Lip successfully completes rehab and is determined to stay \"sober;\" Carl looks into surgery after learning he's the only uncircumcised brother; and Ian gets a bad feeling about Caleb's friend Denise. Season premiere.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/768057" }
+        }
+      },
+      {
+        "id": 909107,
+        "url":
+          "http://www.tvmaze.com/episodes/909107/shameless-7x02-swipe-fuck-leave",
+        "name": "Swipe, Fuck, Leave",
+        "season": 7,
+        "number": 2,
+        "airdate": "2016-10-09",
+        "airtime": "21:00",
+        "airstamp": "2016-10-10T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/76/191004.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/76/191004.jpg"
+        },
+        "summary":
+          "<p>Ready to disown his family, Frank takes Liam under wing and starts a new life barricaded on the top floor of the Gallagher home. Fiona, meanwhile, adopts a new, relaxed attitude and starts running Patsy's Pies on her own terms. Debbie gets into trouble in the stroller business; Ian tries out heterosexuality; and Carl finds himself forced into abstinence.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/909107" }
+        }
+      },
+      {
+        "id": 909110,
+        "url":
+          "http://www.tvmaze.com/episodes/909110/shameless-7x03-home-sweet-homeless-shelter",
+        "name": "Home Sweet Homeless Shelter",
+        "season": 7,
+        "number": 3,
+        "airdate": "2016-10-16",
+        "airtime": "21:00",
+        "airstamp": "2016-10-17T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/76/191006.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/76/191006.jpg"
+        },
+        "summary":
+          "<p>Kevin, Veronica and Svetlana start a topless maid service. At the shelter, meanwhile, Frank makes new friends to replace his old family - leading them to a for-sale house converted into the Gallagher Home for the Homeless. Plus, Debbie's new lifestyle comes to an abrupt end; Carl gets a syphilis scare; Ian struggles with a breakup; and with Fiona on the run to clean up after her siblings, business at Patsy's hits the skids.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/909110" }
+        }
+      },
+      {
+        "id": 909106,
+        "url":
+          "http://www.tvmaze.com/episodes/909106/shameless-7x04-i-am-a-storm",
+        "name": "I Am a Storm",
+        "season": 7,
+        "number": 4,
+        "airdate": "2016-10-23",
+        "airtime": "21:00",
+        "airstamp": "2016-10-24T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/79/198453.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/79/198453.jpg"
+        },
+        "summary":
+          "<p>Frank worries that he and his new family will lose their Home for the Homeless shelter, so he plans a little goodwill for the neighborhood. Meanwhile, Fiona drums up business by throwing a speakeasy party at Patsy's Pies.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/909106" }
+        }
+      },
+      {
+        "id": 909112,
+        "url":
+          "http://www.tvmaze.com/episodes/909112/shameless-7x05-own-your-shit",
+        "name": "Own Your Shit",
+        "season": 7,
+        "number": 5,
+        "airdate": "2016-10-30",
+        "airtime": "21:00",
+        "airstamp": "2016-10-31T01:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/82/205019.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/82/205019.jpg"
+        },
+        "summary":
+          "<p>Frank learns that a billionaire philanthropist has bought the homeless shelter and he and his clan can stay. Meanwhile, Fiona gets smart financial advice from a Tinder hookup as Ian struggles with his feelings for Trevor.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/909112" }
+        }
+      },
+      {
+        "id": 909109,
+        "url":
+          "http://www.tvmaze.com/episodes/909109/shameless-7x06-the-defenestration-of-frank",
+        "name": "The Defenestration of Frank",
+        "season": 7,
+        "number": 6,
+        "airdate": "2016-11-06",
+        "airtime": "21:00",
+        "airstamp": "2016-11-07T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/82/205020.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/82/205020.jpg"
+        },
+        "summary":
+          "<p>Fiona sees opportunity in a laundromat for sale and decides to invest. Frank revels in the good fortune of his scam, but the troops catch a whiff of foul play. Meanwhile, Kev and V discover a shocking secret about Svetlana's father.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/909109" }
+        }
+      },
+      {
+        "id": 928417,
+        "url":
+          "http://www.tvmaze.com/episodes/928417/shameless-7x07-youll-never-ever-get-a-chicken-in-your-whole-entire-life",
+        "name": "You'll Never Ever Get a Chicken in Your Whole Entire Life",
+        "season": 7,
+        "number": 7,
+        "airdate": "2016-11-13",
+        "airtime": "21:00",
+        "airstamp": "2016-11-14T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/84/211907.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/84/211907.jpg"
+        },
+        "summary":
+          "<p>Fiona learns that owning a laundromat is costlier than expected. Frank helps Liam get into a plush new school after his old one is permanently shut down. Meanwhile, Debbie cleans up her act and grows closer to Neil.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/928417" }
+        }
+      },
+      {
+        "id": 928418,
+        "url":
+          "http://www.tvmaze.com/episodes/928418/shameless-7x08-you-sold-me-the-laundromat-remember",
+        "name": "You Sold Me the Laundromat, Remember?",
+        "season": 7,
+        "number": 8,
+        "airdate": "2016-11-20",
+        "airtime": "21:00",
+        "airstamp": "2016-11-21T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/85/214154.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/85/214154.jpg"
+        },
+        "summary":
+          "<p>Fiona takes a DIY approach to renovating the laundromat. Lip agrees to go before the school board in hopes of getting reinstated. Meanwhile, Kev's trust in Svetlana wanes even further when the titty van goes missing.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/928418" }
+        }
+      },
+      {
+        "id": 928419,
+        "url": "http://www.tvmaze.com/episodes/928419/shameless-7x09-ouroboros",
+        "name": "Ouroboros",
+        "season": 7,
+        "number": 9,
+        "airdate": "2016-11-27",
+        "airtime": "21:00",
+        "airstamp": "2016-11-28T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/86/215583.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/86/215583.jpg"
+        },
+        "summary":
+          "<p>Monica is back! And her first task is to help Debbie get back Franny. Meanwhile, Frank tries to avoid her, Ian has his first fight with Trevor, Lip tries to mask his relapsing alcoholism and Fiona's laundromat gets a bad review.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/928419" }
+        }
+      },
+      {
+        "id": 928420,
+        "url":
+          "http://www.tvmaze.com/episodes/928420/shameless-7x10-ride-or-die",
+        "name": "Ride or Die",
+        "season": 7,
+        "number": 10,
+        "airdate": "2016-12-04",
+        "airtime": "21:00",
+        "airstamp": "2016-12-05T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/87/219781.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/87/219781.jpg"
+        },
+        "summary":
+          "<p>Fiona, facing mounting issues, contemplates an offer to buy the laundromat.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/928420" }
+        }
+      },
+      {
+        "id": 928421,
+        "url":
+          "http://www.tvmaze.com/episodes/928421/shameless-7x11-happily-ever-after",
+        "name": "Happily Ever After",
+        "season": 7,
+        "number": 11,
+        "airdate": "2016-12-11",
+        "airtime": "21:00",
+        "airstamp": "2016-12-12T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/88/222135.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/88/222135.jpg"
+        },
+        "summary":
+          "<p>Frank and Monica have a proposal for the kids. Fiona sees an opportunity.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/928421" }
+        }
+      },
+      {
+        "id": 928422,
+        "url":
+          "http://www.tvmaze.com/episodes/928422/shameless-7x12-requiem-for-a-slut",
+        "name": "Requiem for a Slut",
+        "season": 7,
+        "number": 12,
+        "airdate": "2016-12-18",
+        "airtime": "21:00",
+        "airstamp": "2016-12-19T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/89/224455.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/89/224455.jpg"
+        },
+        "summary":
+          "<p>The Gallaghers struggle with loss; Lip tries to improve his future; Debbie, Carl and Liam are sucked into Frank's latest scheme; Kev and V get their revenge.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/928422" }
+        }
+      },
+      {
+        "id": 1270764,
+        "url":
+          "http://www.tvmaze.com/episodes/1270764/shameless-8x01-we-become-what-we-frank",
+        "name": "We Become What We ... Frank!",
+        "season": 8,
+        "number": 1,
+        "airdate": "2017-11-05",
+        "airtime": "21:00",
+        "airstamp": "2017-11-06T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/133/332797.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/133/332797.jpg"
+        },
+        "summary":
+          "<p>The Gallaghers find themselves with money to burn as Carl sells their inheritance from Monica. Meanwhile, Fiona swears off random hookups to focus on her new apartment building; Lip deals with the sacrifice that comes with sobriety; and Frank emerges out of a meth-induced haze to make amends for decades of depravity.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1270764" }
+        }
+      },
+      {
+        "id": 1326052,
+        "url":
+          "http://www.tvmaze.com/episodes/1326052/shameless-8x02-wheres-my-meth",
+        "name": "Where's My Meth?",
+        "season": 8,
+        "number": 2,
+        "airdate": "2017-11-12",
+        "airtime": "21:00",
+        "airstamp": "2017-11-13T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/135/337639.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/135/337639.jpg"
+        },
+        "summary":
+          "<p>Frank re-lives his 20s and joins the workforce for the first time! Meanwhile, Fiona grapples with evicting someone from her building; Lip works out a plan to sabotage Charlie's chances with Sierra; Ian and Carl make a troubling discovery about Monica; and Kev says his goodbyes as he prepares to go under the knife.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1326052" }
+        }
+      },
+      {
+        "id": 1326053,
+        "url":
+          "http://www.tvmaze.com/episodes/1326053/shameless-8x03-god-bless-her-rotting-soul",
+        "name": "God Bless Her Rotting Soul",
+        "season": 8,
+        "number": 3,
+        "airdate": "2017-11-19",
+        "airtime": "21:00",
+        "airstamp": "2017-11-20T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/136/340012.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/136/340012.jpg"
+        },
+        "summary":
+          "<p>A violent meth dealer threatens the Gallaghers, forcing Ian, Carl, Lip and Debbie to find a way to pay him off without involving Fiona. In the meantime, Fiona battles it out with a vindictive tenant; Lip cares for a down-and-out Professor Youens; and Frank - miraculously - attains something resembling sainthood.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1326053" }
+        }
+      },
+      {
+        "id": 1326054,
+        "url":
+          "http://www.tvmaze.com/episodes/1326054/shameless-8x04-fk-paying-it-forward",
+        "name": "F**k Paying It Forward",
+        "season": 8,
+        "number": 4,
+        "airdate": "2017-11-26",
+        "airtime": "21:00",
+        "airstamp": "2017-11-27T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/136/341979.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/136/341979.jpg"
+        },
+        "summary":
+          "<p>A blast from the past shakes up Fiona's view of her life. Meanwhile, Frank gets involved with Liam's school and becomes the most popular dad in the PTA; Lip learns getting laid is harder than anticipated when sober; Ian crosses a boundary with a kid from the youth center; and Kev and V take a trip to meet his birth family.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1326054" }
+        }
+      },
+      {
+        "id": 1342806,
+        "url":
+          "http://www.tvmaze.com/episodes/1342806/shameless-8x05-the-miseducation-of-liam-fergus-beircheart-gallagher",
+        "name": "The (Mis)Education of Liam Fergus Beircheart Gallagher",
+        "season": 8,
+        "number": 5,
+        "airdate": "2017-12-03",
+        "airtime": "21:00",
+        "airstamp": "2017-12-04T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/137/343358.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/137/343358.jpg"
+        },
+        "summary":
+          "<p>As Fiona tries to raise the profile of the neighborhood, Ian helps Trevor to raise money for a new youth shelter. Meanwhile, Carl loses his scholarship and gets creative with securing the tuition, Lip stands up to a friend and gets hurt and Frank teaches the parents at Liam's school all about the working class.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1342806" }
+        }
+      },
+      {
+        "id": 1342807,
+        "url":
+          "http://www.tvmaze.com/episodes/1342807/shameless-8x06-icarus-fell-and-rusty-ate-him",
+        "name": "Icarus Fell and Rusty Ate Him",
+        "season": 8,
+        "number": 6,
+        "airdate": "2017-12-10",
+        "airtime": "21:00",
+        "airstamp": "2017-12-11T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/138/345942.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/138/345942.jpg"
+        },
+        "summary":
+          "<p>Fiona is forced to reflect on her own life after a lonely tenant dies and the duty of cleaning out the apartment falls upon her. Meanwhile, Debbie has a pregnancy scare and winds up in a compromising position, Lip enlists Carl's help to search for his sponsor and Frank enjoys having his first-ever credit card.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1342807" }
+        }
+      },
+      {
+        "id": 1342808,
+        "url":
+          "http://www.tvmaze.com/episodes/1342808/shameless-8x07-occupy-fiona",
+        "name": "Occupy Fiona",
+        "season": 8,
+        "number": 7,
+        "airdate": "2017-12-17",
+        "airtime": "21:00",
+        "airstamp": "2017-12-18T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/139/347709.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/139/347709.jpg"
+        },
+        "summary":
+          "<p>Ian tests Fiona's patience and resolve by bringing a messy \"Occupy Fiona\" movement right to her front door. Lip struggles to get Professor Youens to court for his DUI trial. Meanwhile, a now unemployed Frank goes on a job hunt and Carl gets a feisty new rehab client with a plan to help him get the rest of his tuition.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1342808" }
+        }
+      },
+      {
+        "id": 1342809,
+        "url":
+          "http://www.tvmaze.com/episodes/1342809/shameless-8x08-franks-northern-southern-express",
+        "name": "Frank's Northern Southern Express",
+        "season": 8,
+        "number": 8,
+        "airdate": "2017-12-31",
+        "airtime": "21:00",
+        "airstamp": "2018-01-01T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/140/352383.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/140/352383.jpg"
+        },
+        "summary":
+          "<p>Frank starts a booming import-export business. Fiona considers moving into her own place after Ford shows her a side of Chicago she's never seen. Meanwhile, Lip interviews new sponsors, Ian confronts a pastor trying to \"pray the gay away\" and Debbie deals with being unemployed while looking for a way to afford school and raise Franny.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1342809" }
+        }
+      },
+      {
+        "id": 1365447,
+        "url":
+          "http://www.tvmaze.com/episodes/1365447/shameless-8x09-the-fugees",
+        "name": "The Fugees",
+        "season": 8,
+        "number": 9,
+        "airdate": "2018-01-07",
+        "airtime": "21:00",
+        "airstamp": "2018-01-08T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/141/354499.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/141/354499.jpg"
+        },
+        "summary":
+          "<p>Frank's business takes a turn for the worse, sending him on the run through the Great White North. Ian's run-in with a minister brings about some unexpected allies. Meanwhile, Fiona tries (and fails) to fit in with Ford's group of friends, Carl's new girlfriend suffers separation anxiety and Lip must decide whether to tell Sierra about Charlie's past.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1365447" }
+        }
+      },
+      {
+        "id": 1365448,
+        "url":
+          "http://www.tvmaze.com/episodes/1365448/shameless-8x10-church-of-gay-jesus",
+        "name": "Church of Gay Jesus",
+        "season": 8,
+        "number": 10,
+        "airdate": "2018-01-14",
+        "airtime": "21:00",
+        "airstamp": "2018-01-15T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/141/354500.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/141/354500.jpg"
+        },
+        "summary":
+          "<p>Ian's fame in the LGBTQIA community explodes but the sudden surge of 'followers' may be more than he can handle; Frank, however, finds a way to cash in. Meanwhile, Fiona struggles with her conscience when she learns about a worker who fell off her roof and Lip realizes his relationship with Professor Youens may not have been as special as he thought.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1365448" }
+        }
+      },
+      {
+        "id": 1365449,
+        "url":
+          "http://www.tvmaze.com/episodes/1365449/shameless-8x11-a-gallagher-pedicure",
+        "name": "A Gallagher Pedicure",
+        "season": 8,
+        "number": 11,
+        "airdate": "2018-01-21",
+        "airtime": "21:00",
+        "airstamp": "2018-01-22T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/143/358000.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/143/358000.jpg"
+        },
+        "summary":
+          "<p>Fiona's homeless tenants barricade themselves inside her apartment. Lip takes in a terrified Sierra and Lucas when her father is released from prison. Meanwhile Ian, despite warnings, provides sanctuary to a runaway teen, Frank considers his retirement and Debbie must choose between paying for school and paying for surgery to keep her toes.</p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1365449" }
+        }
+      },
+      {
+        "id": 1365450,
+        "url":
+          "http://www.tvmaze.com/episodes/1365450/shameless-8x12-sleepwalking",
+        "name": "Sleepwalking",
+        "season": 8,
+        "number": 12,
+        "airdate": "2018-01-28",
+        "airtime": "21:00",
+        "airstamp": "2018-01-29T02:00:00+00:00",
+        "runtime": 60,
+        "image": {
+          "medium":
+            "http://static.tvmaze.com/uploads/images/medium_landscape/144/360830.jpg",
+          "original":
+            "http://static.tvmaze.com/uploads/images/original_untouched/144/360830.jpg"
+        },
+        "summary":
+          "<p> Fiona taps deep into her Gallagher roots to get the homeless family out of her apartment and dismiss their lawsuit. An explosive incident sends Ian and some of his followers into hiding from the authorities. Meanwhile, Lip makes a difficult decision in order to have the life he really wants, Carl looks for a way to go back to school without upsetting Kassidi, Debbie considers letting Derek back into Franny's life and Frank makes plans to take advantage of Liam's rich friend. Season finale. </p>",
+        "_links": {
+          "self": { "href": "http://api.tvmaze.com/episodes/1365450" }
+        }
+      }
+    ]
+  }
+}
